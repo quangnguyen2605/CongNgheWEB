@@ -1,0 +1,1 @@
+Kiến trúc của Web được thiết kế để mỗi tài nguyên (HTML, CSS, ảnh...) là một request riêng biệt. Điều này mang lại lợi ích to lớn về mặt phân tán và tái sử dụng, nhưng nó có phải là 'Achilles' dẫn đến vấn đề hiệu suất và là điểm yếu then chốt mà các kỹ thuật tối ưu hóa (như CDN, caching, bundle file) đang cố gắng giải quyết?
