@@ -1,0 +1,2 @@
+Trong PHP, tính đóng gói được thể hiện qua các access modifier (public, private, protected). Hãy so sánh cách PHP xử lý tính đóng gói so với Java. Tại sao việc sử dụng proper access modifier lại quan trọng trong việc phát triển các ứng dụng web lớn?
+
