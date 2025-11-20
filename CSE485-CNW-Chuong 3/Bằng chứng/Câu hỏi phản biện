@@ -1,0 +1,1 @@
+Tại sao chúng ta phải sử dụng exit() hoặc die() ngay sau mỗi lần gọi header('Location: ...') trong xử lý chuyển hướng?
