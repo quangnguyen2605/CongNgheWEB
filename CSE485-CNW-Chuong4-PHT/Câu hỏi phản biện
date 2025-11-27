@@ -1,1 +1,0 @@
-Tại sao đã dùng Prepared Statement để chống SQL Injection khi lưu dữ liệu, nhưng khi hiển thị vẫn cần htmlspecialchars()?
