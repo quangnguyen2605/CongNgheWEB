@@ -1,0 +1,1 @@
+Tệp .env lưu trữ cấu hình nhạy cảm. Tuy nhiên, nếu ai đó commit nhầm tệp này lên GitHub, hậu quả sẽ như thế nào? Laravel có cơ chế nào để bảo vệ thông tin nhạy cảm ngoài .env không?
