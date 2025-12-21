@@ -1,0 +1,1 @@
+Việc chạy php artisan serve chỉ phù hợp cho môi trường development. Tại sao không nên sử dụng lệnh này trong production? Hãy đề xuất một cách triển khai Laravel chuyên nghiệp hơn?
