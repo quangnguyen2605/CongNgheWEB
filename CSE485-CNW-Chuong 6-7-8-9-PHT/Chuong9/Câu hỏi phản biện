@@ -1,0 +1,1 @@
+Eloquent ORM sử dụng PDO Parameter Binding. Hãy giải thích ngắn gọn cơ chế này giúp ngăn chặn SQL Injection như thế nào. Có phải lúc nào nó cũng an toàn 100% không?
